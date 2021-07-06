@@ -16,7 +16,7 @@
     <com.squareup.retrofit2.version>2.5.0</com.squareup.retrofit2.version>
     <slf4j.version>1.7.25</slf4j.version>
     <commons-codec.version>1.11</commons-codec.version>
-    <commons-lang3.version>3.7</commons-lang3.version>
+    <commons-lang3.version>3.12.0</commons-lang3.version>
     <gae.version>1.9.63</gae.version>
     <junit.version>4.12</junit.version>
     <!-- Compiler -->
